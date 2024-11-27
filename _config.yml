@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+title                    : "Mengyang Li"
 title_separator          : "-"
 name                     : &name "Xing liu"
 description              : &description "Welcome to my webpage!"
-url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://limengyang1992.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XingLLiu/XingLLiu.github.io"
+repository               : "limengyang1992/acdemic"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xing Liu"
-  avatar           : "profile_nanjing.png"
+  avatar           : "profile_me.png"
   bio              : "PhD student of Statistics at Imperial College London"
   location         : "London, UK"
   employer         :
